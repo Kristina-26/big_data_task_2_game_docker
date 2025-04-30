@@ -54,5 +54,6 @@ Start an X server on your host system.
 Run the Docker container:
 
 docker pull kristina26/simon-game:latest
+
 docker run -it --rm kristina26/simon-game:latest
 
