@@ -20,6 +20,8 @@ docker login
 
 docker push kristina26/simon-game:latest
 
+The Docker image has been pushed to Docker Hub with the tag: kristina26/simon-game:latest
+
 # Running the container
 
 The container can be run from the Docker GUI or by running a command:
