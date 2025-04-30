@@ -18,7 +18,7 @@ class SimonGame:
         self.started = False
         self.level = 0
 
-        # tracking of active animations
+        # tracking of active animation
         self.animation_ids = {}  # keep track of pending animations for each button
 
         # title label
